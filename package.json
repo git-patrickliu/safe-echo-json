@@ -1,5 +1,5 @@
 {
-  "name": "safe-json-stringify",
+  "name": "safe-echo-json",
   "version": "1.0.0",
   "description": "novel method to echo json data in html",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FroadUED/safe-json-stringify.git"
+    "url": "https://github.com/FroadUED/safe-echo-json.git"
   },
   "keywords": [
     "echo",
@@ -19,7 +19,7 @@
   "author": "amoschen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FroadUED/safe-json-stringify/issues"
+    "url": "https://github.com/FroadUED/safe-echo-json/issues"
   },
-  "homepage": "https://github.com/FroadUED/safe-json-stringify"
+  "homepage": "https://github.com/FroadUED/safe-echo-json"
 }
