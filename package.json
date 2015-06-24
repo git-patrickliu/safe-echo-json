@@ -1,0 +1,25 @@
+{
+  "name": "safe-json-stringify",
+  "version": "1.0.0",
+  "description": "novel method to echo json data in html",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FroadUED/safe-json-stringify.git"
+  },
+  "keywords": [
+    "echo",
+    "json",
+    "in",
+    "html"
+  ],
+  "author": "amoschen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FroadUED/safe-json-stringify/issues"
+  },
+  "homepage": "https://github.com/FroadUED/safe-json-stringify"
+}
